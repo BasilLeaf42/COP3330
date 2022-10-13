@@ -1,0 +1,3 @@
+Write an application that reads three nonzero integers and determines and prints whether they could represent the sides of a right triangle.
+
+Problem 4.37 from Java How to Program (11th edition) by Paul Deitel & Harvey Deitel

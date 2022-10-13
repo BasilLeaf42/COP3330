@@ -1,6 +1,6 @@
-/* Christopher Cao
-   Homework 4
-   2/3/2020 */
+// Christopher Cao
+// ch282858
+// COP3330 - Spring 2020
 
 import java.util.Scanner;
 

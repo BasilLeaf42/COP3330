@@ -1,12 +1,14 @@
-/* Christopher Cao
-   Homework 1
-   1/13/2020 */
+// Christopher Cao
+// ch282858
+// COP3330 - Spring 2020
 
 //The output of the unmodified program is "The object's position after 10.0 seconds is 0.0 m."
 
 //start of GravityCalculator class
-class GravityCalculator {
-	public static void main(String[] arguments) {
+class GravityCalculator
+{
+	public static void main(String[] arguments)
+	{
 		
 		//variable declaration
 		double gravity = -9.81; //Earth's gravity in m/s^2

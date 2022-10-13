@@ -1,6 +1,6 @@
-/* Christopher Cao and William Byrne
-   Homework 7
-   3/21/2020 */
+// Christopher Cao and William Byrne
+// ch282858
+// COP3330 - Spring 2020
 
 public class BasePlusCommissionEmployee
 {

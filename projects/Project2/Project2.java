@@ -1,8 +1,6 @@
-/*
- -  Project 2
- -  Christopher Cao and William Byrne
- */
-
+// Christopher Cao and William Byrne
+// ch282858
+// COP3330 - Spring 2020
 
 import java.util.*;
 import java.util.Formatter;

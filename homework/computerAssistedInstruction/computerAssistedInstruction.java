@@ -1,7 +1,6 @@
-/* 
--   Homework 5
--   Christopher Cao
-*/
+// Christopher Cao
+// ch282858
+// COP3330 - Spring 2020
 
 import java.security.SecureRandom;
 import java.util.Scanner;

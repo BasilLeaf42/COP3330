@@ -1,7 +1,7 @@
-/*
- -  Project 3
- -  Christopher Cao, William Byrne
- */
+// Christopher Cao and William Byrne
+// ch282858
+// COP3330 - Spring 2020
+
 //"Project3" is the equivalent of "person"
 
 import java.util.ArrayList;
